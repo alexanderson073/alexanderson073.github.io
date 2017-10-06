@@ -1,0 +1,178 @@
+body {background-color: white;
+
+
+}
+h1{
+    font-family: Verdana;
+    margin-left:20px;
+	color:black;
+	
+}
+
+    
+p{margin-left: 20px;
+	margin-right:500px;
+	color:black;
+
+}
+
+.clear {clear:both;
+        height: 20px;
+		
+}
+
+/*div first-child {float: right;}*/
+
+img{
+    height: 200px; 
+	width:150px; 
+	right:70px;
+	top:45px;
+	position:absolute;
+	clear:left;
+	transform: rotate(-5deg);
+}
+
+
+.education {
+    
+    text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid black;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-top: 20px;
+	margin-left: 100px;
+	color:black;
+
+	 }
+
+.education_info{
+    position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:400px;
+	color: black;
+	
+	
+}
+
+.skills{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid black;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+	color:black;
+	
+	
+	
+}
+.skills_info{
+    position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+	color:black;
+	
+	
+}
+
+.experience{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid black;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+	color:black;
+	
+	
+	
+}
+.experience_info{
+     position: absolute;
+    float: right;
+    height: 200px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+	color:black;
+}
+
+.hobbies{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid black;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+	color:black;
+	
+
+}
+.hobbies_info{
+     position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+	color:black;
+}
+.hobbies_info2{
+	position: absolute;
+	float: right;
+	height: 50px;
+	width: 1000px;
+	border: 2px;
+	border-radius: 5px;
+	display: inline-block;
+	margin-left:60px;
+	color:black;
+}
+
+.references{
+     text-align: center;
+    height: 100px;
+	width: 200px;
+	border-right: 2px solid black;
+	float:left;
+	padding-right:15px;
+	margin-right:20px;
+	margin-left: 100px;
+	color:black;
+	
+	}
+.references_info{
+     position: absolute;
+    float: right;
+    height: 50px;
+	width: 1000px;
+	border: 2px ;
+	border-radius: 5px;
+	display:inline-block;
+	margin-left:60px;
+	color:black;
+	}
